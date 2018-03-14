@@ -40,6 +40,7 @@
     position: absolute
     top: 0px
     width: 100%
+    height: 80px
     z-index: 9200
     background-color: transparent;
     .header-center-wrapper
