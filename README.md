@@ -1,9 +1,9 @@
-# htmc
+## Intro
+Company website.
 
-> It is the website for our company
+Refer: http://57e8ecf41155d.t73.qifeiye.com/
 
-## Build Setup
-
+## Build
 ``` bash
 # install dependencies
 npm install or cnpm install
@@ -18,4 +18,41 @@ npm run build
 npm run build --report
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+Refer [webpack](http://vuejs-templates.github.io/webpack/) and [vue-loader](http://vuejs.github.io/vue-loader).
+
+## Deploy
+TBD
+
+## Plan
+Framework:
+- [ ] Initial project, [kunkun]
+- [ ] Tab menu, [kunkun]
+- [ ] Empty pages, [kunkun]
+- [ ] Router, [kunkun]
+- [ ] Top, [kunkun]
+- [ ] Bottom, [kunkun]
+
+First page:
+- [ ] Screen 1: entry, [kunkun]
+- [ ] Screen 2: solution, [wenxue]
+- [ ] Screen 3: case, [yunhui]
+- [ ] Screen 4: company charactors, [yunhui]
+- [ ] Screen 5: partners, [chengjun]
+- [ ] Screen 5: Contact, [kunkun]
+
+Sub pages:
+- Solutions:
+    + [ ] Bid data, [wenxue]
+    + [ ] Microservice, [chengjun]
+    + [ ] E-business, [TBD]
+    + [ ] Video conference, [kunkun]
+- Cases:
+    + [ ] Bid data, [wenxue]
+    + [ ] Microservice, [chengjun]
+    + [ ] E-business, [TBD]
+    + [ ] Video conference, [kunkun]
+    + [ ] Football APP, [wenxue]
+    + [ ] Decoration APP, [yunhui]
+    + [ ] WeChat APP, [yunhui]
+- About:
+    + [ ] Company introduction, [chengjun]
