@@ -43,10 +43,18 @@
         </div>
       </div>
     </section>
+    <home-case></home-case>
   </div>
 </template>
 
 <script type="text/ecmascript-6">
+import DecorationCase from '@/components/cases/DecorationCase.vue'
+import HomeCase from '@/components/home/homecase.vue'
+export default {
+  components: {
+    HomeCase
+  }
+} 
 </script>
 
 <style lang="stylus"
@@ -72,8 +80,8 @@
         left: 0
         top: 0
         .video-wrapper
-          width: 100%
-          height: 100%
+         // width: 100%
+          //height: 100%
           object-fit: cover
           object-position: center center
           display: inline-block
